@@ -38,4 +38,4 @@ L. Zhang, J. Zhang, W. Wei and Y. Zhang, "Learning Discriminative Compact Repres
 doi: 10.1109/TGRS.2019.2919938
 ```
 
-## tip: we just use spectral information for HSI classification. Network structure may have a slightly different for different datasets due to the different spectral dimension.
+## tip: we just use spectral information for HSI classification. Network structures may have a slightly different for different datasets due to the different spectral dimension.
